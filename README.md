@@ -5,8 +5,9 @@
 Build Vue JS 2 apps using TypeScript in single file components. Setup with Webpack 2 and hot load.
 
 Based of variuos examples:
-[https://alligator.io/vuejs/typescript-class-components/][Writing Class-Based Components with Vue.js and TypeScript]
-[https://github.com/vuejs/vue-class-component][ES / TypeScript decorator for class-style Vue components.]
+
+[Writing Class-Based Components with Vue.js and TypeScript](https://alligator.io/vuejs/typescript-class-components/).
+[ES / TypeScript decorator for class-style Vue components.](https://github.com/vuejs/vue-class-component).
 
 ### Example
 
